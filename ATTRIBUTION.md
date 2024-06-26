@@ -1,4 +1,4 @@
-This template is based on the [electron-vite](https://github.com/alex8088/electron-vite), which is licensed under the MIT License and the ["Build an Electron app with electron-vite" LogRocket blog post](https://blog.logrocket.com/build-electron-app-electron-vite/#creating-web-app-vite-react) by [Brian de Sousa](https://github.com/briandesousa/).
+This template is based on the [electron-vite](https://github.com/alex8088/electron-vite), which is licensed under the MIT License and the ["Build an Electron app with electron-vite" LogRocket blog post](https://blog.logrocket.com/build-electron-app-electron-vite/) by [Brian de Sousa](https://github.com/briandesousa/).
 
 
 ### <u>electron-vite license</u>
